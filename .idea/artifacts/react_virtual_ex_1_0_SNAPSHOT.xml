@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="react-virtual-ex-1.0-SNAPSHOT">
+    <output-path>C:\Users\lerak\IdeaProjects\react-virtual-ex\build\libs</output-path>
+    <root id="archive" name="react-virtual-ex-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="react-virtual-ex.main" />
+    </root>
+  </artifact>
+</component>
